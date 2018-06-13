@@ -1,0 +1,5 @@
+wildfly_user: 'wildfly'
+wildfly_home: '/home/wildfly'
+wildfly_archive: 'http://download.jboss.org/wildfly/11.0.0.Final/wildfly-11.0.0.Final.tar.gz'
+wildfly_path: '/opt/wildfly'
+wildfly_daemon_name: 'wildfly'
